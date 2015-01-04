@@ -1,0 +1,11 @@
+[root]
+name = "rmenu"
+version = "0.0.1"
+dependencies = [
+ "xlib 0.1.0",
+]
+
+[[package]]
+name = "xlib"
+version = "0.1.0"
+
